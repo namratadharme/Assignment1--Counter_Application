@@ -1,3 +1,7 @@
+# Counter Application
+
+[Click here to view deployed site](https://playful-klepon-808a9b.netlify.app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
