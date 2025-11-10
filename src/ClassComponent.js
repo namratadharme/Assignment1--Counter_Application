@@ -14,9 +14,11 @@ class ClassComponent extends Component {
     }));
   };
   handleDecrease = () => {
-    this.setState((preState) => ({
-      count: preState.count - 1,
-    }));
+    if (this.state.count > 0) {
+      this.setState((preState) => ({
+        count: preState.count - 1,
+      }));
+    }
   };
 
   handleReset = () => {
