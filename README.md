@@ -1,4 +1,4 @@
-# Counter App assignment Link - (https://melodic-queijadas-9dfe5f.netlify.app)
+# Counter App assignment Link - (https://assignment1-counter-app.vercel.app)
 
 # Getting Started with Create React App
 
